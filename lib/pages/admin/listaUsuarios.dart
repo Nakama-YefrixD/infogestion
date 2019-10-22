@@ -163,7 +163,7 @@ class _ListUsuariosState extends State<ListUsuarios> {
               Padding(
                 padding: EdgeInsets.all(10.0),
                 child: Icon(
-                  FontAwesomeIcons.check,
+                  FontAwesomeIcons.edit,
                   color: AppTheme.white,
                 ),
               )

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.infogestion"
+    package="info.gestion"
     android:versionCode="1"
-    android:versionName="1.0.0" >
+    android:versionName="1.0" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -51,7 +51,7 @@
 
         <provider
             android:name="vn.hunghd.flutterdownloader.DownloadedFileProvider"
-            android:authorities="com.example.infogestion.flutter_downloader.provider"
+            android:authorities="info.gestion.flutter_downloader.provider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data
@@ -60,14 +60,14 @@
         </provider>
         <provider
             android:name="androidx.work.impl.WorkManagerInitializer"
-            android:authorities="com.example.infogestion.workmanager-init"
+            android:authorities="info.gestion.workmanager-init"
             android:directBootAware="false"
             android:enabled="false"
             android:exported="false"
             android:multiprocess="true" />
         <provider
             android:name="vn.hunghd.flutterdownloader.FlutterDownloaderInitializer"
-            android:authorities="com.example.infogestion.flutter-downloader-init"
+            android:authorities="info.gestion.flutter-downloader-init"
             android:exported="false" >
             <meta-data
                 android:name="vn.hunghd.flutterdownloader.MAX_CONCURRENT_TASKS"

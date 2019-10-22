@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\345b3e4a5c6b73dfb20b32c496a51a96\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-mk\\values-mk.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\345b3e4a5c6b73dfb20b32c496a51a96\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

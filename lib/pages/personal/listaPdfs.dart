@@ -331,7 +331,7 @@ class _ListaPdfsPersonalState extends State<ListaPdfsPersonal> with WidgetsBindi
             onTap: (){
               carga.cargando(context, "Cargando PDF.");
               Navigator.of(context).pop();
-              getFileFromUrl("http://www.elsoca.org/pdf/libreria/programa_de_transicion.pdf").then((f) {
+              getFileFromUrl(urlGlobalPdf+"/"+url).then((f) {
                   urlPDFPath = f.path;
                   
                   Navigator.push(
@@ -358,7 +358,7 @@ class _ListaPdfsPersonalState extends State<ListaPdfsPersonal> with WidgetsBindi
                 setState(() {
                   dataPdf[posicion]['estadoPdf'] = 2;  
                 });
-                _requestDownload("http://www.elsoca.org/pdf/libreria/programa_de_transicion.pdf", posicion);
+                _requestDownload(urlGlobalPdf+"/"+url, posicion);
               },
             ),
 
@@ -582,7 +582,7 @@ class _ListaPdfsPersonalState extends State<ListaPdfsPersonal> with WidgetsBindi
     
     dataPdf[posicion]['idDescargaPdf'] = 
       await FlutterDownloader.enqueue(
-        url: "http://www.bodyandbalance.ca/images/new/twitter_t.png",
+        url: url,
         headers: {
           "auth": "test_for_sql_encoding"
         },

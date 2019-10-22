@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\proyectos\\InfoGestion\\infogestion\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
+            "outputFile": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gerson\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\f7a86cb412c1a7f20079a88800eb87df\\res\\values-da\\values-da.xml",
+                    "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.1.0.aar\\a76fe1990e6b92ec8b547e53964f5a4e\\res\\values-da\\values-da.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

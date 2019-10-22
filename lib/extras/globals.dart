@@ -1,6 +1,6 @@
 library my_prj.globals;
 
-String urlGlobalPdf = 'http://192.168.1.7:8000';
+String urlGlobalPdf = 'http://files.rodmensoft.com';
 String urlGlobal    =  urlGlobalPdf+'/api';
 // String urlGlobal    =  'http://www.maxinventario.com/api';
 String urlAdmin     = urlGlobal+"/admin";

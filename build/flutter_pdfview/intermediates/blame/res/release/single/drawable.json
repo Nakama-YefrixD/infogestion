@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\345b3e4a5c6b73dfb20b32c496a51a96\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\345b3e4a5c6b73dfb20b32c496a51a96\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_left.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-pdf-viewer-3.1.0-beta.1.aar\\ad5731855d8cfa451fa1bb09e1daa2fa\\res\\drawable\\default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\345b3e4a5c6b73dfb20b32c496a51a96\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-pdf-viewer-3.1.0-beta.1.aar\\ad5731855d8cfa451fa1bb09e1daa2fa\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_top.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-pdf-viewer-3.1.0-beta.1.aar\\ad5731855d8cfa451fa1bb09e1daa2fa\\res\\drawable\\default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0-rc01.aar\\345b3e4a5c6b73dfb20b32c496a51a96\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ansera\\Nueva carpeta\\PROYECTOS\\infoGestion\\infogestion\\build\\flutter_pdfview\\intermediates\\res\\merged\\release\\drawable\\default_scroll_handle_right.xml",
+        "source": "C:\\Users\\ansera\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-android-pdf-viewer-3.1.0-beta.1.aar\\ad5731855d8cfa451fa1bb09e1daa2fa\\res\\drawable\\default_scroll_handle_right.xml"
+    }
+]

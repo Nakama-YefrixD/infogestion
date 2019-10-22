@@ -79,7 +79,7 @@ class CrearUsuarioState extends State<CrearUsuario> {
                           child: ListView(
                             children: <Widget>[
                               Container(
-                                padding: EdgeInsets.only(top: 80.0),
+                                padding: EdgeInsets.only(top: 50.0),
                                 child: Column(
                                   children: <Widget>[
                                     Text(

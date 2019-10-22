@@ -201,7 +201,7 @@ class _LoginPageState extends State<LoginPage> {
         final tipoUsuario = map['tipoUsuario'];
         final resultUsuario = map['resultUsuario'];
 
-        
+        Navigator.of(context).pop();
         if(code == true){
           setState(() {
             this.token = token;
@@ -212,7 +212,7 @@ class _LoginPageState extends State<LoginPage> {
 
           switch (tipoUsuario) {
             case 1:
-            Navigator.of(context).pop();
+            // Navigator.of(context).pop();
             Navigator.push(
               context, 
               MaterialPageRoute(
@@ -223,7 +223,7 @@ class _LoginPageState extends State<LoginPage> {
             );
             break;
             case 2:
-              Navigator.of(context).pop();
+              // Navigator.of(context).pop();
               Navigator.push(
                 context, 
                 MaterialPageRoute(
@@ -234,11 +234,11 @@ class _LoginPageState extends State<LoginPage> {
               );
               break;
             default:
-              Navigator.of(context).pop();
+              // Navigator.of(context).pop();
               modalMensaje.mensaje(context, "Usuario o contraseña incorrecta.");
           }
         }else{
-          Navigator.of(context).pop();
+          // Navigator.of(context).pop();
           modalMensaje.mensaje(context, "Usuario o contraseña incorrecta.");
         }
       }else{

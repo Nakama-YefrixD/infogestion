@@ -142,7 +142,7 @@ class _ListPdfsState extends State<ListPdfs> {
         print(urlGlobalPdf+"/"+url);
         if(direction == DismissDirection.startToEnd){
           carga.cargando(context, "CARGANDO PDF");
-          getFileFromUrl("http://192.168.1.7/otro.pdf").then((f) {
+          getFileFromUrl(urlGlobalPdf+"/"+url).then((f) {
               urlPDFPath = f.path;
               print(urlPDFPath);
               Navigator.push(
